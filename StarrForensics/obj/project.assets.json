@@ -51,27 +51,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jakes\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\nz38fv\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakes\\source\\repos\\StarrForensics\\StarrForensics\\StarrForensics.csproj",
+      "projectUniqueName": "C:\\Users\\nz38fv\\Desktop\\StarrForensics\\StarrForensics\\StarrForensics.csproj",
       "projectName": "StarrForensics",
-      "projectPath": "C:\\Users\\jakes\\source\\repos\\StarrForensics\\StarrForensics\\StarrForensics.csproj",
-      "packagesPath": "C:\\Users\\jakes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakes\\source\\repos\\StarrForensics\\StarrForensics\\obj\\",
+      "projectPath": "C:\\Users\\nz38fv\\Desktop\\StarrForensics\\StarrForensics\\StarrForensics.csproj",
+      "packagesPath": "C:\\Users\\nz38fv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nz38fv\\Desktop\\StarrForensics\\StarrForensics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jakes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\nz38fv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

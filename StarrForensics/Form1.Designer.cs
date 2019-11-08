@@ -32,10 +32,11 @@
             this.fileProgressBar = new System.Windows.Forms.ProgressBar();
             this.scanFilesButton = new System.Windows.Forms.Button();
             this.verifyFilesBtn = new System.Windows.Forms.Button();
+            this.currentFileBox = new System.Windows.Forms.TextBox();
             // 
             // selectFileButton
             // 
-            this.selectFileButton.Location = new System.Drawing.Point(8, 47);
+            this.selectFileButton.Location = new System.Drawing.Point(8, 64);
             this.selectFileButton.Name = "selectFileButton";
             this.selectFileButton.Size = new System.Drawing.Size(121, 23);
             this.selectFileButton.TabIndex = 0;
@@ -52,7 +53,7 @@
             // 
             // scanFilesButton
             // 
-            this.scanFilesButton.Location = new System.Drawing.Point(135, 47);
+            this.scanFilesButton.Location = new System.Drawing.Point(135, 64);
             this.scanFilesButton.Name = "scanFilesButton";
             this.scanFilesButton.Size = new System.Drawing.Size(121, 23);
             this.scanFilesButton.TabIndex = 2;
@@ -62,7 +63,7 @@
             // 
             // verifyFilesBtn
             // 
-            this.verifyFilesBtn.Location = new System.Drawing.Point(262, 47);
+            this.verifyFilesBtn.Location = new System.Drawing.Point(262, 64);
             this.verifyFilesBtn.Name = "verifyFilesBtn";
             this.verifyFilesBtn.Size = new System.Drawing.Size(121, 23);
             this.verifyFilesBtn.TabIndex = 3;
@@ -70,11 +71,20 @@
             this.verifyFilesBtn.UseVisualStyleBackColor = true;
             this.verifyFilesBtn.Click += new System.EventHandler(this.verifyFilesBtn_Click);
             // 
+            // currentFileBox
+            // 
+            this.currentFileBox.Enabled = false;
+            this.currentFileBox.Location = new System.Drawing.Point(8, 35);
+            this.currentFileBox.Name = "currentFileBox";
+            this.currentFileBox.Size = new System.Drawing.Size(375, 23);
+            this.currentFileBox.TabIndex = 4;
+            // 
             // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(397, 87);
+            this.ClientSize = new System.Drawing.Size(397, 101);
+            this.Controls.Add(this.currentFileBox);
             this.Controls.Add(this.verifyFilesBtn);
             this.Controls.Add(this.scanFilesButton);
             this.Controls.Add(this.fileProgressBar);
@@ -90,6 +100,7 @@
         private System.Windows.Forms.ProgressBar fileProgressBar;
         private System.Windows.Forms.Button scanFilesButton;
         private System.Windows.Forms.Button verifyFilesBtn;
+        private System.Windows.Forms.TextBox currentFileBox;
     }
 }
 
