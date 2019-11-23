@@ -24,3 +24,16 @@ C:\Users\nz38fv\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\St
 C:\Users\nz38fv\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.csproj.CopyComplete
 C:\Users\nz38fv\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.dll
 C:\Users\nz38fv\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.pdb
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\StarrForensics.exe
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\StarrForensics.deps.json
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\StarrForensics.runtimeconfig.json
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\StarrForensics.runtimeconfig.dev.json
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\StarrForensics.dll
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\StarrForensics.pdb
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.csprojAssemblyReference.cache
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.AssemblyInfoInputs.cache
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.AssemblyInfo.cs
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.csproj.CopyComplete
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.dll
+C:\Users\jakes\Desktop\StarrForensics\StarrForensics\obj\Debug\netcoreapp3.0\StarrForensics.pdb

@@ -49,6 +49,7 @@
             this.fileProgressBar.Location = new System.Drawing.Point(8, 8);
             this.fileProgressBar.Name = "fileProgressBar";
             this.fileProgressBar.Size = new System.Drawing.Size(375, 23);
+            this.fileProgressBar.Step = 1;
             this.fileProgressBar.TabIndex = 1;
             // 
             // scanFilesButton

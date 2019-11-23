@@ -42,7 +42,7 @@ namespace StarrForensics
             int CurrentCount = 0;
             int FileCount = 0;
             string CurrentFileName = "";
-            string SaveDirectory = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+            string SaveDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             string HashFile = SaveDirectory + @$"\hashData{DateTime.Now.ToString("MMddyyHHmmss")}.json";
             List<HashFormat> HashData = new List<HashFormat>();
 
